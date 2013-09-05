@@ -1,0 +1,27 @@
+## ToDo
+
+Exercises to add:
+- composing commands to make them dot-able
+- creating & using macros
+- using macros in visual mode
+- using dot in visual mode
+- managing multiple buffers
+- formatting text using linux command line commands
+
+Files to add:
+- Large text to format
+- 3k lines to change, e.g.  change date to today's date on every line using macros
+- xml to make pretty
+
+Knowledge to add
+- Principles to kick one out of a rut
+- Add Outline of vim -- this is a map to help you find vim abilities you aren't familiar with
+
+Tools to add
+-Add shell script to launch a vanilla vim sessing  (vim -u )
+-Make this a meetup session in a box
+    - Guidance for running this in a meetup session
+    - Genericize this for any vim-meetup, not just the Boston one
+
+
+
